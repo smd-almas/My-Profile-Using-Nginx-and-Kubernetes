@@ -25,7 +25,7 @@ A personal portfolio website built with **React** and styled using **Tailwind CS
 ## **🚀 How to Run Locally**  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/my-profile.git
+   git clone https://github.com/smd-almas/My-Profile-Using-Nginx-and-Kubernetes.git
    cd my-profile
    ```
 
